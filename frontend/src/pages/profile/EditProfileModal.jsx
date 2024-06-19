@@ -25,7 +25,7 @@ const EditProfileModal = ({ authUser }) => {
         username: authUser.username,
         email: authUser.email,
         bio: authUser.bio,
-        link: "",
+        link: authUser.link,
         newPassword: "",
         currentPassword: "",
       });
