@@ -1,6 +1,6 @@
 # Twitter X Clone
 
-[Link Text](https://twitter-clone-137r.onrender.com/profile/Afsar11)
+[Project Link](https://twitter-clone-137r.onrender.com/profile/Afsar11)
 
 
 Some Features:
